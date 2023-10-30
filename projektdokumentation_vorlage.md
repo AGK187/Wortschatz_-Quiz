@@ -26,8 +26,10 @@ Ein Wortschatz-Quiz, welches das Wissen des Benutzers auf die Probe stellt. Es k
 
 | №    | Verbindlichkeit | Typ  | Beschreibung |
 | ---- | --------------- | ---- | ------------ |
-| 1    |                 |      |  Der Nutzer soll zwischen 3 Schwierigkeitstufen auswählen können.            |
-| ...  |                 |      |              |
+| 1    |                 |  funktional    |  Der Nutzer soll zwischen 3 Schwierigkeitstufen auswählen können.            |
+| 2    |                 |  funktional    |    Der Nutzer soll ein Levelsystem haben, welchen ihn bei Levelaufstieg alarmiert          |
+| 3    |                 |  funktional    |    Der Nutzer soll mitverfolgen können, wie viele richtige Antworten er hatte          |
+| 4    |                 |      |              |
 
 <span style="background: azure">Jede Anforderung hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand).</span>
 
