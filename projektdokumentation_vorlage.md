@@ -17,6 +17,7 @@
 ### 1.1 Ihr Projekt
 
 ✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+
 Ein Wortschatz-Quiz, welches das Wissen des Benutzers auf die Probe stellt. Es kann zwischen verschiedenen Schwierigkeitsstufen ausgewählt werden und es gibt ein Level-System.
 
 ### 1.2 Anforderungen
