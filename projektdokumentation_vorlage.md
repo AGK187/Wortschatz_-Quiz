@@ -38,6 +38,8 @@ Ein Wortschatz-Quiz, welches das Wissen des Benutzers auf die Probe stellt. Es k
 | TC-№ | Vorbereitung (*given*) | Eingabe (*when*) | Erwartete Ausgabe (*then*) |
 | ---- | ---------------------- | ---------------- | -------------------------- |
 | 1.1  |                        |                  |                            |
+| 1.2  |                        |                  |                            |
+| 1.3  |                        |                  |                            |
 | ...  |                        |                  |                            |
 
 <span style="background: azure">Jede Anforderung hat mindestens einen dazugehörigen Testfall. Der erste Testfall, der zur Anforderung mit der Nummer 1 gehört, hat die Nummer 1.1, der zweite Testfall, der zur Anforderung 1 gehört, die 1.2; der erste Testfall zur Anforderung 2 die 2.1 und so weiter. </span>
@@ -58,7 +60,36 @@ Ein Wortschatz-Quiz, welches das Wissen des Benutzers auf die Probe stellt. Es k
 <span style="background: azure">Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. *Frist* bedeutet, wann das AP abgeschlossen sein muss; *Zuständig* bezeichnet die (haupt-)verantwortliche Person.</span>
 
 <span style="background: azure">Die Arbeitspakete sind wie die Testfälle nummeriert; aber gebrauchen A, B, C, ... statt 1, 2, 3.... Das erste Arbeitspaket zur Anforderung 1 ist also 1.A, das zweite 1.B etc. </span>
+Arbeitspakete 30.10.23
+Anton: 
+- [ ] PAP erstellen
+- [ ] Github Plannung
 
+David:
+- [ ] Ideen für Projetk sammeln
+- [ ] Windows Forms erforschen
+
+Sebastian:
+- [ ] Github Plannung 
+- [ ] Windows Forms application erstellen
+
+Alle:
+- [ ] evt. programmieren
+
+Arbeitspakete 6.11.23
+Anton:
+- [ ] programmieren
+- [ ] Dokumentation
+
+David:
+- [ ] programmieren
+- [ ] mehr Ideen zum Quiz herausfinden
+
+Sebastian:
+- [ ] Dokumentation
+- [ ] programmieren
+
+Die Arbeitspakete sind wie die Testfälle nummeriert; aber gebrauchen A, B, C, ... statt 1, 2, 3.... Das erste Arbeitspaket zur Anforderung 1 ist also 1.A, das zweite 1.B etc.
 ## 3 Entscheiden
 
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
