@@ -6,6 +6,8 @@
 
 ✍️ Ihr Nachname; bei Gruppenarbeiten Ihr Gruppenname und Ihre Nachnamen
 
+Gruppenname: Gruppe 7      Nachnamen: Schwyn, Gerej, Aksic
+
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und erklären in *einem* griffigen Satz, was Sie an dem Tag erreicht haben. Diese Stelle gibt Ihnen und Ihrer Lehrperson eine einfache Möglichkeit, sich eine Übersicht über Ihr Projekt zu verschaffen. |
@@ -24,7 +26,7 @@ Ein Wortschatz-Quiz, welches das Wissen des Benutzers auf die Probe stellt. Es k
 
 | №    | Verbindlichkeit | Typ  | Beschreibung |
 | ---- | --------------- | ---- | ------------ |
-| 1    |                 |      |              |
+| 1    |                 |      |  Der Nutzer soll zwischen 3 Schwierigkeitstufen auswählen können.            |
 | ...  |                 |      |              |
 
 <span style="background: azure">Jede Anforderung hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand).</span>
