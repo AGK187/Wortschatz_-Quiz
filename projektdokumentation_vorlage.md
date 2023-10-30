@@ -37,9 +37,9 @@ Ein Wortschatz-Quiz, welches das Wissen des Benutzers auf die Probe stellt. Es k
 
 | TC-№ | Vorbereitung (*given*) | Eingabe (*when*) | Erwartete Ausgabe (*then*) |
 | ---- | ---------------------- | ---------------- | -------------------------- |
-| 1.1  |                        |                  |                            |
-| 1.2  |                        |                  |                            |
-| 1.3  |                        |                  |                            |
+| 1.1  |          Software gestartet               |   leicht               |                Schwierigkeitsstufe leicht wurde ausgewählt            |
+| 1.2  |          Software gestartet                 |    mittel              |     Schwierigkeitstufe mittel wurde ausgewählt                       |
+| 1.3  |          Software gestartet              |       schwer           |         Schwierigkeitstufe schwer wurde ausgewählt                   |
 | ...  |                        |                  |                            |
 
 <span style="background: azure">Jede Anforderung hat mindestens einen dazugehörigen Testfall. Der erste Testfall, der zur Anforderung mit der Nummer 1 gehört, hat die Nummer 1.1, der zweite Testfall, der zur Anforderung 1 gehört, die 1.2; der erste Testfall zur Anforderung 2 die 2.1 und so weiter. </span>
@@ -61,6 +61,7 @@ Ein Wortschatz-Quiz, welches das Wissen des Benutzers auf die Probe stellt. Es k
 
 <span style="background: azure">Die Arbeitspakete sind wie die Testfälle nummeriert; aber gebrauchen A, B, C, ... statt 1, 2, 3.... Das erste Arbeitspaket zur Anforderung 1 ist also 1.A, das zweite 1.B etc. </span>
 Arbeitspakete 30.10.23
+
 Anton: 
 - [ ] PAP erstellen
 - [ ] Github Plannung
