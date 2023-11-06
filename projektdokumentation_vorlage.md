@@ -84,7 +84,7 @@ Anton:
 
 David:
 - [ ] mehr Ideen zum Quiz herausfinden
-- [ ] programmieren
+- [ ] Sich über WIndows Forms erkundigen/testen
 
 Sebastian:
 - [ ] Dokumentieren/Planung auf Github
