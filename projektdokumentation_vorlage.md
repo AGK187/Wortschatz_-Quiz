@@ -63,16 +63,16 @@ Ein Wortschatz-Quiz, welches das Wissen des Benutzers auf die Probe stellt. Es k
 Arbeitspakete 30.10.23
 
 Anton: 
-- [ ] PAP erstellen
-- [ ] Github Plannung
+- [x] PAP erstellen
+- [x] Github Plannung
 
 David:
-- [ ] Ideen für Projetk sammeln
-- [ ] Windows Forms erforschen
+- [x] Ideen für Projetk sammeln
+- [x] Windows Forms erforschen
 
 Sebastian:
-- [ ] Github Plannung 
-- [ ] Windows Forms application erstellen
+- [x] Github Plannung 
+- [x] Windows Forms application erstellen
 
 Alle:
 - [ ] evt. programmieren
