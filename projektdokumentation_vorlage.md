@@ -80,14 +80,14 @@ Alle:
 Arbeitspakete 6.11.23
 Anton:
 - [ ] programmieren
-- [ ] Dokumentation
+- [ ] Dokumentation auf Github
 
 David:
 - [ ] mehr Ideen zum Quiz herausfinden
 - [ ] programmieren
 
 Sebastian:
-- [ ] Dokumentieren/Planunf auf Github
+- [ ] Dokumentieren/Planung auf Github
 - [ ] programmieren
 
 Die Arbeitspakete sind wie die Testfälle nummeriert; aber gebrauchen A, B, C, ... statt 1, 2, 3.... Das erste Arbeitspaket zur Anforderung 1 ist also 1.A, das zweite 1.B etc.
