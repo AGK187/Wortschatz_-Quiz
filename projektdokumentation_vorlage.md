@@ -79,16 +79,16 @@ Alle:
 
 Arbeitspakete 6.11.23
 Anton:
-- [ ] Hauptstruktur des Programms programmieren
-- [ ] Dokumentation auf Github
+- [x] Hauptstruktur des Programms programmieren
+- [x] mehr Ideen zum Quiz herausfinden
 
 David:
-- [ ] mehr Ideen zum Quiz herausfinden
+- [x] mehr Ideen zum Quiz herausfinden
 - [ ] Sich über WIndows Forms erkundigen/testen
 
 Sebastian:
-- [ ] Dokumentieren/Planung auf Github
-- [ ] auf Datenbanken zugreifen versuchen
+- [x] Dokumentieren/Planung auf Github
+- [x] auf Datenbanken zugreifen versuchen
 
 Die Arbeitspakete sind wie die Testfälle nummeriert; aber gebrauchen A, B, C, ... statt 1, 2, 3.... Das erste Arbeitspaket zur Anforderung 1 ist also 1.A, das zweite 1.B etc.
 ## 3 Entscheiden
