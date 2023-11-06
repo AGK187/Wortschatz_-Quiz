@@ -79,7 +79,7 @@ Alle:
 
 Arbeitspakete 6.11.23
 Anton:
-- [ ] programmieren
+- [ ] Hauptstruktur des Programms programmieren
 - [ ] Dokumentation auf Github
 
 David:
@@ -88,7 +88,7 @@ David:
 
 Sebastian:
 - [ ] Dokumentieren/Planung auf Github
-- [ ] programmieren
+- [ ] auf Datenbanken zugreifen versuchen
 
 Die Arbeitspakete sind wie die Testfälle nummeriert; aber gebrauchen A, B, C, ... statt 1, 2, 3.... Das erste Arbeitspaket zur Anforderung 1 ist also 1.A, das zweite 1.B etc.
 ## 3 Entscheiden
