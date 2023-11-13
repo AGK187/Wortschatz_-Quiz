@@ -90,6 +90,15 @@ Sebastian:
 - [x] Dokumentieren/Planung auf Github
 - [x] auf Datenbanken zugreifen versuchen
 
+## Arbeitspakete für 13. 11
+Anton:
+- [] Mehr Ideen zum Aufbau + Anfangen mit Schwirigkeitsstufen
+- [] Allgemeines EXP. System programmieren
+Sebastian:
+- [] 1 Forms abschliessen
+- [] ein return feature machen
+
+
 Die Arbeitspakete sind wie die Testfälle nummeriert; aber gebrauchen A, B, C, ... statt 1, 2, 3.... Das erste Arbeitspaket zur Anforderung 1 ist also 1.A, das zweite 1.B etc.
 ## 3 Entscheiden
 
