@@ -92,8 +92,10 @@ Sebastian:
 
 ## Arbeitspakete für 13. 11
 Anton:
+
 - [] Mehr Ideen zum Aufbau + Anfangen mit Schwirigkeitsstufen
 - [] Allgemeines EXP. System programmieren
+  
 Sebastian:
 
 - [] 1 Forms abschliessen
