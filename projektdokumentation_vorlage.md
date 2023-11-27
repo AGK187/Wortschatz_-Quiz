@@ -102,6 +102,12 @@ Sebastian:
 - [] ein return feature machen
 
 
+## Arbeitspakete für 27.11
+
+Antoni:
+
+-[]
+
 Die Arbeitspakete sind wie die Testfälle nummeriert; aber gebrauchen A, B, C, ... statt 1, 2, 3.... Das erste Arbeitspaket zur Anforderung 1 ist also 1.A, das zweite 1.B etc.
 ## 3 Entscheiden
 
