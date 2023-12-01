@@ -75,7 +75,7 @@ Sebastian:
 - [x] Windows Forms application erstellen
 
 Alle:
-- [ ] evt. programmieren
+- [x] evt. programmieren
 
 Arbeitspakete 6.11.23
 Anton:
@@ -98,15 +98,49 @@ Anton:
   
 Sebastian:
 
-- [] 1 Forms abschliessen
-- [] ein return feature machen
+- [x] 1 Forms abschliessen
+- [x] ein return feature machen
+
+
+## Arbeitspakete für 20.11
+
+
+Sebastian:
+
+- [x] Bugs fixen
+- [x] Checkboxen für Forms 1 erstellen
+
+
+David:
+
+- [x] Wörter einfügen
+- [x] GUI bearbeiten
+
+
+Antoni:
+
+- [x] Dokumentation
+- [x] Wörter hinzufügen
+- [x] Buttons für die anderen Forms einfügen
 
 
 ## Arbeitspakete für 27.11
 
 Antoni:
 
--[]
+- [x] Dokumentation
+- [x] Bugs fixen
+- [x] Anzahl richtiger antworten Button programmieren
+
+
+David:
+- [x] Wörter einfügen ( die neuen)
+- [x] Bugs fixen
+
+
+Sebastian:
+- [x] 1 Forms den richtig/falsch knöpfe programmieren
+- [x] Bugs fixen
 
 Die Arbeitspakete sind wie die Testfälle nummeriert; aber gebrauchen A, B, C, ... statt 1, 2, 3.... Das erste Arbeitspaket zur Anforderung 1 ist also 1.A, das zweite 1.B etc.
 ## 3 Entscheiden
@@ -128,8 +162,8 @@ Die Arbeitspakete sind wie die Testfälle nummeriert; aber gebrauchen A, B, C, .
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 20.11      |  Man kann zwischen 3 Schwierigkeitsstufen auswählen        |    David    |
+| 1.2  | 20.11      |   4 Checkboxen sind verfügbar       |  Antoni      |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
