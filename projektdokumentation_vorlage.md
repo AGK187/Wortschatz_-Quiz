@@ -8,13 +8,13 @@
 
 Gruppenname: Gruppe 7      Nachnamen: Schwyn, Gerej, Aksic
 
-| Datum | Version | Zusammenfassung                                              |
-| ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️heute haben wir uns einen Überblick über unser projekt verschafft. Wir haben uns auch ein bisschen mit windows forms beschäftigt |
+| Datum     | Version | Zusammenfassung                                              |
+| ----------| ------- | ------------------------------------------------------------ |
+|           | 0.0.1   | ✍️heute haben wir uns einen Überblick über unser projekt verschafft. Wir haben uns auch ein bisschen mit windows forms beschäftigt |
 |  6.11     | 0.0.2   |  Heute haben wir mit dem Projekt angefangen, nachdem wir die Anforderungen vom Kunden erhalten haben.                                                            |
-| 13.11      | 0.0.3   |   Heute haben wir den Startbildschirm vom Forms erstellt und forms 1 angefangen                                                           |
-| 20.11      | 0.0.4   |  Heute haben wir im Forms 1 unsere Checkboxen gemacht und an den Wörtern welche angezeigt werden sollen, gearbeitet | 
-| 27.11      | 0.0.5   |  Heute haben wir vor allem an Bugfixes gearbeitet. Ausserdem haben wir an der Zufälliger Anzeige der Fragen gearbeitet | 
+| 13.11     | 0.0.3   |   Heute haben wir den Startbildschirm vom Forms erstellt und forms 1 angefangen                                                           |
+| 20.11     | 0.0.4   |  Heute haben wir im Forms 1 unsere Checkboxen gemacht und an den Wörtern welche angezeigt werden sollen, gearbeitet | 
+| 27.11     | 0.0.5   |  Heute haben wir vor allem an Bugfixes gearbeitet. Ausserdem haben wir an der Zufälliger Anzeige der Fragen gearbeitet | 
 | 1.12      | 0.0.6   |  Heute haben wir versucht das Projekt abzuschliessen. | 
 
 ## 1 Informieren
