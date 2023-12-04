@@ -16,6 +16,7 @@ Gruppenname: Gruppe 7      Nachnamen: Schwyn, Gerej, Aksic
 | 20.11     | 0.0.4   |  Heute haben wir im Forms 1 unsere Checkboxen gemacht und an den Wörtern welche angezeigt werden sollen, gearbeitet | 
 | 27.11     | 0.0.5   |  Heute haben wir vor allem an Bugfixes gearbeitet. Ausserdem haben wir an der Zufälliger Anzeige der Fragen gearbeitet | 
 | 1.12      | 0.0.6   |  Heute haben wir versucht das Projekt abzuschliessen. | 
+| 3.12      | 0.0.7   |Heute war die letzte Arbeit am Projekt | 
 
 ## 1 Informieren
 
@@ -173,3 +174,7 @@ Die Arbeitspakete sind wie die Testfälle nummeriert; aber gebrauchen A, B, C, .
 ## 6 Auswerten
 
 ✍️ Beschreiben Sie, was gut an Ihrem Projekt ging, und was Sie nächstes Mal anders machen würden.
+
+
+
+Was wir unserer Meinung nach gut gemacht haben, ist die Kommunikation im Team. Die Sachen, welche wir zwischen uns abgesprochen haben, wer was macht und was gemacht werden muss. Was nicht so gut gelaufen ist, sind unsere informatikfähigkeiten. Wir haben das Projekt nicht abgeschlossen, weil Bugs aufgetaucht sind und wir für manche Funktionen keine Lösungen gefunden haben.
